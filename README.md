@@ -1,80 +1,80 @@
-# 🚀 О себе
+# 🚀 About Me
 
-Студент 3 курса факультета компьютерных наук ВГУ. Занимаюсь разработкой backend-приложений на Java с использованием современного стека технологий. Увлечен созданием надежных, масштабируемых и безопасных систем.
+Third-year Computer Science student at Voronezh State University. Developing backend applications in Java using modern technology stack. Passionate about building reliable, scalable, and secure systems.
 
-## 🛠 Технологический стек
+## 🛠 Technology Stack
 
-### Языки программирования
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Фреймворки и библиотеки
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-FF5722?style=for-the-badge&logo=lombok&logoColor=white)
 
-### Тестирование
+### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
-### Базы данных
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Инструменты разработки
+### Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Операционные системы
+### Operating Systems
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Дополнительные технологии
+### Additional Technologies
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
-## 📊 GitHub статистика
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgnapuga&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgnapuga&layout=compact&theme=dark&hide_border=true)
 
-## 🏆 Ключевые проекты
+## 🏆 Key Projects
 
-### 🏦 [Система управления банковскими картами](https://github.com/vgnapuga/effective-mobile_bankCards_test)
-> Enterprise-приложение для управления банковскими картами
+### 🏦 [Bank Card Management System](https://github.com/vgnapuga/effective-mobile_bankCards_test)
+> Enterprise application for bank card management
 
-**Технологии:** Java 21, Spring Boot, Spring Security, PostgreSQL, Docker, JWT, Liquibase
+**Technologies:** Java 21, Spring Boot, Spring Security, PostgreSQL, Docker, JWT, Liquibase
 
-**Ключевые особенности:**
-- Ролевая модель доступа (USER/ADMIN)
-- AES-256-GCM шифрование номеров карт
-- Валидация по алгоритму Луна
-- RESTful API с Swagger документацией
-- Комплексное тестирование (JUnit + Mockito)
-- Docker-compose для развертывания
+**Key Features:**
+- Role-based access control (USER/ADMIN)
+- AES-256-GCM encryption for card numbers
+- Luhn algorithm validation
+- RESTful API with Swagger documentation
+- Comprehensive testing (JUnit + Mockito)
+- Docker-compose deployment
 
-## 🎯 Области изучения
+## 🎯 Areas of Focus
 
-- **Backend разработка** - проектирование и реализация server-side логики
-- **RESTful API** - создание масштабируемых веб-сервисов
-- **Безопасность** - аутентификация, авторизация, шифрование данных
-- **Базы данных** - проектирование схем, оптимизация запросов, миграции
-- **Тестирование** - unit/integration тесты, TDD подход
-- **DevOps практики** - контейнеризация, CI/CD, автоматизация
+- **Backend Development** - designing and implementing server-side logic
+- **RESTful API** - building scalable web services
+- **Security** - authentication, authorization, data encryption
+- **Databases** - schema design, query optimization, migrations
+- **Testing** - unit/integration tests, TDD approach
+- **DevOps Practices** - containerization, CI/CD, automation
 
-## 💼 Принципы разработки
+## 💼 Development Principles
 
-- **Clean Code** - читаемый и поддерживаемый код
-- **SOLID принципы** - правильная архитектура приложений
-- **DDD подход** - предметно-ориентированное проектирование
-- **Test-Driven Development** - разработка через тестирование
-- **Continuous Integration** - автоматизация процессов
+- **Clean Code** - readable and maintainable code
+- **SOLID Principles** - proper application architecture
+- **DDD Approach** - domain-driven design
+- **Test-Driven Development** - development through testing
+- **Continuous Integration** - process automation
 
-## 📫 Связаться со мной
+## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shavrin_ns@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vgnapuga)
