@@ -1,8 +1,11 @@
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgnapuga&show_icons=true&theme=dark&hide_border=true)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=vgnapuga&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgnapuga&layout=compact&theme=dark&hide_border=true)
+[![Vgnapuga's github stats](https://github-readme-mwendwa.vercel.app/api?username=vgnapuga&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Vgnapuga's current streak](https://streak-stats.demolab.com/?user=vgnapuga&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 ## 📫 Contact Me
 
